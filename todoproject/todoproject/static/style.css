@@ -1,0 +1,15 @@
+.banner{
+    background-color: darkviolet;
+    width :100%;
+    height:200px;
+    margin-bottom:50x;
+}
+
+
+.banner-text{
+
+top:40%;
+left:45%;
+position:absolute;
+transform:transform;
+}
